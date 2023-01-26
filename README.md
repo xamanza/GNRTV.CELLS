@@ -24,17 +24,27 @@ _________
 ____________________0 // Requirements
 
 > Install first pd-l2ork or purr.data in your OS :
-
-https://l2ork.music.vt.edu/data/pd-l2ork/Pd-L2Ork-2.16.0-20221218-rev.30d739c8-x86_64.deb (Mint & Ubuntu & Debian based)
-https://l2ork.music.vt.edu/data/pd-l2ork/Pd-L2Ork-2.16.0-20221218-rev.30d739c8-armv7l.deb (RaspberryPi)
-https://l2ork.music.vt.edu/data/pd-l2ork/Pd-L2Ork-2.16.0-20221218-rev.30d739c8-x86_64.dmg (MacIntel)
-https://l2ork.music.vt.edu/data/pd-l2ork/Pd-L2Ork-2.16.0-20221219-rev.d114995b.exe (Win)
-
+///
+Mint & Ubuntu & Debian based
+https://l2ork.music.vt.edu/data/pd-l2ork/Pd-L2Ork-2.16.0-20221218-rev.30d739c8-x86_64.deb
 or
+https://github.com/agraef/purr-data/releases/download/2.19.0/purr-data-2.19.0-ubuntu-x86_64.zip 
 
-https://github.com/agraef/purr-data/releases/download/2.19.0/purr-data-2.19.0-ubuntu-x86_64.zip (Mint & Ubuntu & Debian based)
-https://github.com/agraef/purr-data/releases/download/2.19.0/purr-data-2.19.0-macos-x86_64.zip (MacIntel)
-https://github.com/agraef/purr-data/releases/download/2.19.0/purr-data-2.19.0-mingw-x86_64.zip (Win)
+///
+RaspberryPi
+https://l2ork.music.vt.edu/data/pd-l2ork/Pd-L2Ork-2.16.0-20221218-rev.30d739c8-armv7l.deb 
+
+///
+MacOS (macIntel)
+https://l2ork.music.vt.edu/data/pd-l2ork/Pd-L2Ork-2.16.0-20221218-rev.30d739c8-x86_64.dmg 
+or
+https://github.com/agraef/purr-data/releases/download/2.19.0/purr-data-2.19.0-macos-x86_64.zip 
+
+///
+Win
+https://l2ork.music.vt.edu/data/pd-l2ork/Pd-L2Ork-2.16.0-20221219-rev.d114995b.exe
+or
+https://github.com/agraef/purr-data/releases/download/2.19.0/purr-data-2.19.0-mingw-x86_64.zip
 
 
 in case previous are not working check in those versions / forks / updates
