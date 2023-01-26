@@ -50,9 +50,13 @@ https://github.com/agraef/purr-data/releases/download/2.19.0/purr-data-2.19.0-mi
 
 in case previous are not working check in those versions / forks / updates
 http://l2ork.music.vt.edu/main/make-your-own-l2ork/software/
+
 https://github.com/pd-l2ork/pd-l2ork
+
 https://github.com/jonwwilkes/purr-data/releases
+
 https://github.com/agraef/purr-data/releases/tag/2.19.0
+
 
 ___
 _________
