@@ -7,14 +7,13 @@ GNRTV.CELLS Toolkit has applications for :
 live performance music, New·Media Art projects, Interactive, Immersive installations, Sonic Engines, etc.
 
 
-///////////
+
 * Generative, therefore based on physical models and/or biological models. 
 It is worth to remind that although it has some conceptual common concepts with AI, 
 generative methods are inspired by other kind of intelligences 
 and emergency systems with a non anthropocentric perspective.
-///////////
-
-
+_________
+_________
 
 
 
