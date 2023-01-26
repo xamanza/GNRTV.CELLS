@@ -47,8 +47,8 @@ https://l2ork.music.vt.edu/data/pd-l2ork/Pd-L2Ork-2.16.0-20221219-rev.d114995b.e
 or
 https://github.com/agraef/purr-data/releases/download/2.19.0/purr-data-2.19.0-mingw-x86_64.zip
 
+.
 ..
-...
 in case previous are not working check in those versions / forks / updates
 
 http://l2ork.music.vt.edu/main/make-your-own-l2ork/software/
