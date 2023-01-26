@@ -22,8 +22,9 @@ _________
 INSTALL STEPS
 _________
 ____________________0 // Requirements
+Install first pd-l2ork or purr.data in your OS :
 
-> Install first pd-l2ork or purr.data in your OS :
+
 ///
 Mint & Ubuntu & Debian based
 https://l2ork.music.vt.edu/data/pd-l2ork/Pd-L2Ork-2.16.0-20221218-rev.30d739c8-x86_64.deb
