@@ -63,14 +63,15 @@ https://github.com/agraef/purr-data/releases/tag/2.19.0
 ___
 _________
 ____________________1 // Download the package you want to work & play
-.
-..
+
+_________ GNRTV.CELLS 
+https://github.com/xamanza/GNRTV.CELLS
 ...
-GNRTV.CELLS https://github.com/xamanza/GNRTV.CELLS
+__________GNRTV.CELLS // LIVE CODING EDITION  
+https://github.com/xamanza/GNRTV.CELLS/raw/main/GNRTV.CELLS_LIVECODING.EDITION.zip
 ...
-GNRTV.CELLS // LIVE CODING EDITION  https://github.com/xamanza/GNRTV.CELLS/raw/main/GNRTV.CELLS_LIVECODING.EDITION.zip
-...
-GNRTV.BOTS  https://github.com/xamanza/GNRTV.BOTS/raw/main/GNRTV.BOTS.zip
+__________GNRTV.BOTS  
+https://github.com/xamanza/GNRTV.BOTS/raw/main/GNRTV.BOTS.zip
 
 
 ____________________2 // Unzip in any location in your OS
