@@ -169,12 +169,12 @@ N·JOY!!!
 ///////////////////////
 ///////////////////////
 Feedback >
-///////////////////////
+_______
 GNRTV.CELLS Toolkit Concept & Programming by Xa Manzanares & OH·LAB 2023
-
+_______
 http://xavimanzanares.oneshaptiques.space
 http://oneshaptiques.space
-
+_______
 TW @txa
 IG + GitH @xamanza
 _________
