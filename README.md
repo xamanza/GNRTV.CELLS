@@ -97,8 +97,11 @@ ____________________4 // Play and Njoy tweaking parameters through sliders
 ///
 ///
 ///
-
+_________
 USAGE.GNRTV.CELLS
+
+
+_________
 1 // Download the package
 https://github.com/xamanza/GNRTV.CELLS/raw/main/GNRTV.CELLS.zip
 
