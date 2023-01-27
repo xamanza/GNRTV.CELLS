@@ -138,7 +138,7 @@ There are a bunch of features, but if you wanna try some sounds
 
 ________
 6 Play and Njoy sonic generative algorythms \o/
-
+^ o ^
 
 
 _
