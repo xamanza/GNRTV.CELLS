@@ -69,9 +69,6 @@ https://github.com/xamanza/GNRTV.CELLS
 ...
 __________GNRTV.CELLS // LIVE CODING EDITION  
 https://github.com/xamanza/GNRTV.CELLS/raw/main/GNRTV.CELLS_LIVECODING.EDITION.zip
-...
-__________GNRTV.BOTS  
-https://github.com/xamanza/GNRTV.BOTS/raw/main/GNRTV.BOTS.zip
 
 
 ____________________2 // Unzip in any location in your OS
@@ -83,6 +80,50 @@ ____________________4 // Play and Njoy tweaking parameters through sliders
 
 
 
+
+USAGE.GNRTV.CELLS
+1 // Download the package
+https://github.com/xamanza/GNRTV.CELLS/raw/main/GNRTV.CELLS.zip
+
+
+_________
+2 // Unzip in any location in your OS
+
+
+_________
+3 // Read the pdf tutorial inside the package
+
+
+_________
+4 // Open the file GNRTV.CELLS.BeforeSTART.pd to get started with the toolkit in the directory GNRTV.CELLS.CODE  
+> ...GNRTV.CELLS/GNRTV.CELLS_CODE/GNRTV.CELLS.BeforeSTART.pd
+Click ‘beforeStart’ button and read the tutorial to overview the concept of the toolkit
+
+
+________
+5 // Once you have check the usage with ‘beforeSTART’ > Open the main file in the same directory 
+ 
+> GNRTV.CELLS/GNRTV.CELLS_CODE/GNRTV.CELLS.pd
+
+There are a bunch of features, but if you wanna try some sounds 
+
+5.1 click on the mandemoji icon once the patch GNRTV.CELLS.pd is opened
+5.2 it will pop up a tool deck
+5.3 click on CELLS.SYNTH button
+5.4 tweak parameters allowing On·Off~ gates in the audio racks (in black) for listen each instrument.
+
+5.5 If there is no sound click ‘dsp reset button’ in the tools deck
+5.6 If still there is no sound be sure you have the soundcard settings in menú edit > ‘Preferences’ or menú Media (depending on versions, preferences can appear in different places)
+
+
+________
+6 Play and Njoy sonic generative algorythms \o/
+
+
+
+_
+__
+____
 _________
 ____________________
 + info 
