@@ -1,4 +1,4 @@
-# GNRTV.CELLS (Generative Cells)
+# GNRTV.CELLS (Generative Cells) (OldVersion)
 -_-
 is a 'Toolkit' inspired by the modular synthesizers (which have been so successful in the last decade) 
 in the framework of the algorithmic music, to be able to build Generative* (Algorythmic) instruments 
